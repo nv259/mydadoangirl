@@ -189,7 +189,7 @@ var cantho =document.querySelector('.main');
 cantho.insertAdjacentHTML('afterend', '<div class="author mt-5"><div class="row"><div class="col-12"><div class="me text-danger text-right"></div></div></div></div>');
 
 document.querySelector('.Description .modal-title').innerHTML = '<i class="far fa-comment-alt"></i>&nbsp;The first and only easterEgg';
-document.querySelector('.Description .modal-body').innerHTML = 'U know ? I think that I am so lucky because I love you and coincidence, you love me too<i class="fas fa-heart"></i> ';
+document.querySelector('.Description .modal-body').innerHTML = 'U know ? Maybe I am the happiest man in this world. Because I love you and coincidence, you love me too. So i can say that REDAMANCY<i class="fas fa-heart"></i> ';
 var author = document.querySelector('.author .me');author.style.opacity = "0.5";
 author.innerHTML = "Bản quyền thuộc về<a href='https://anonyviet.com'>Lmint<a>";
 author.style.opacity = "0";
